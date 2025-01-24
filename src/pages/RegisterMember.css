@@ -1,0 +1,17 @@
+.main{
+  background-color: black
+;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 5px;
+  color: white;
+  margin: 0 auto ; 
+}
+
+.form {
+  max-width: 100%;
+  margin-left: 15px;
+  margin-right: 15px;
+}
